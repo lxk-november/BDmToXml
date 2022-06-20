@@ -1,2 +1,2 @@
 # BDmToXml
-将bilibili的protobuf序列化文件转华为B站的XML弹幕文件
+将bilibili的protobuf序列化文件转换为B站的XML弹幕文件的windows端命令行工具

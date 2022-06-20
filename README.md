@@ -1,0 +1,2 @@
+# BDmToXml
+将bilibili的protobuf序列化文件转华为B站的XML弹幕文件
